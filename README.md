@@ -1,8 +1,19 @@
-# React + Vite
+# To-Do list App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features:
+- Add element to the list
+- Delete element from the list
+- If the element is added for the first time it will be added inside the Incompleted list
+- Once the elements are marked as completed, they will be shifted to Complete List
+- Once the elements are Deleted from the completed list, it will be gone forever
 
-Currently, two official plugins are available:
+### The simple server-side for this app is made in nodeJs
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tools:
+- Redux
+- Redux Thunk
+- Selectors
+- Styled Component
+- Axios
+
+
