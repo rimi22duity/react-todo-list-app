@@ -9,7 +9,7 @@
 
 ### The simple server-side for this app is made in nodeJs
 
-## Tools:
+## React Ecosystems Tools:
 - Redux
 - Redux Thunk
 - Selectors
